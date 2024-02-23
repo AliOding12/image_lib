@@ -45,3 +45,4 @@ def write_pgm(filename, pixels):
         for row in pixels:
             f.write(" ".join(map(str, row)) + "\n")
 # Add core module with init and IO operations
+# Add core module with init and IO operations
