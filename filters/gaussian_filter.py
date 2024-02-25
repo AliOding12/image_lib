@@ -32,3 +32,4 @@ def gaussian_filter(pixels, size=3, sigma=1.0):
 # Fix bug in Gaussian filter implementation
 # Start filters module with Gaussian blur
 # Fix bug in Gaussian filter implementation
+# Start filters module with Gaussian blur
