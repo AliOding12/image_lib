@@ -11,3 +11,4 @@ def mean_filter(pixels, size=3):
     kernel = [[1 / (size * size) for _ in range(size)] for _ in range(size)]
     return convolution(pixels, kernel)
 # Add mean and median filters for noise reduction
+# Add mean and median filters for noise reduction

@@ -23,3 +23,4 @@ def median_filter(pixels, size=3):
     
     return output
 # Add mean and median filters for noise reduction
+# Add mean and median filters for noise reduction
