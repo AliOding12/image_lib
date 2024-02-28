@@ -28,3 +28,4 @@ def sobel_filter(pixels):
     return output
 # Add Sobel and Laplacian edge detection filters
 # Add Sobel and Laplacian edge detection filters
+# Add Sobel and Laplacian edge detection filters

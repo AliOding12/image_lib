@@ -11,3 +11,4 @@ def laplacian_filter(pixels):
     return convolution(pixels, kernel)
 # Add Sobel and Laplacian edge detection filters
 # Add Sobel and Laplacian edge detection filters
+# Add Sobel and Laplacian edge detection filters
