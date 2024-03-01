@@ -17,3 +17,4 @@ def adjust_contrast(pixels, factor):
         ]
 # Add manipulation module with brightness and contrast adjustments
 # Add manipulation module with brightness and contrast adjustments
+# Add manipulation module with brightness and contrast adjustments
