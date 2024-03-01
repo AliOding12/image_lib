@@ -16,3 +16,4 @@ def adjust_brightness(pixels, value):
             for row in pixels
         ]
 # Add manipulation module with brightness and contrast adjustments
+# Add manipulation module with brightness and contrast adjustments
