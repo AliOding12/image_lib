@@ -36,3 +36,4 @@ def histogram_equalization(pixels):
     return equalized
 # Add histogram equalization and image inversion
 # Add histogram equalization and image inversion
+# Add histogram equalization and image inversion
