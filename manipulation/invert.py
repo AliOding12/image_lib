@@ -8,3 +8,4 @@ def invert(pixels):
     else:  # Grayscale image
         return [[255 - pixel for pixel in row] for row in pixels]
 # Add histogram equalization and image inversion
+# Add histogram equalization and image inversion
