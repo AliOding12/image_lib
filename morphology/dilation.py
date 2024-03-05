@@ -32,3 +32,4 @@ def dilation(pixels, struct_elem):
 
     return output
 # Add morphology module with dilation and erosion
+# Add morphology module with dilation and erosion
