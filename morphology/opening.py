@@ -12,3 +12,4 @@ def opening(pixels, struct_elem):
     return opened
 # Add morphological opening and closing
 # Add morphological opening and closing
+# Add morphological opening and closing
