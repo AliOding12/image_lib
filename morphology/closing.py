@@ -11,3 +11,4 @@ def closing(pixels, struct_elem):
     closed = erosion(dilated, struct_elem)
     return closed
 # Add morphological opening and closing
+# Add morphological opening and closing
