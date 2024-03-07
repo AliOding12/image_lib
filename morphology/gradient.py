@@ -30,3 +30,4 @@ def gradient(pixels, struct_elem):
 
     return output
 # Add morphological gradient
+# Add morphological gradient
