@@ -16,3 +16,4 @@ def global_threshold(pixels, thresh):
 
     return output
 # Add threshold module with global thresholding
+# Add threshold module with global thresholding
