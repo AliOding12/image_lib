@@ -30,3 +30,4 @@ def adaptive_threshold(pixels, block_size, C):
     return output
 # Add adaptive thresholding
 # Add adaptive thresholding
+# Add adaptive thresholding
