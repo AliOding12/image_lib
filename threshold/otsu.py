@@ -50,3 +50,4 @@ def otsu_threshold(pixels):
 
     return output, threshold
 # Add Otsu's automatic thresholding
+# Add Otsu's automatic thresholding
