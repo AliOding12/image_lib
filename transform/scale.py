@@ -20,3 +20,4 @@ def scale(pixels, new_width, new_height):
     return output
 # Add transform module with scaling and translation
 # Add transform module with scaling and translation
+# Add transform module with scaling and translation
