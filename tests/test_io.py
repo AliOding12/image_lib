@@ -13,3 +13,4 @@ def test_pgm_read_write():
     assert img == read_img, "PGM read/write mismatch"
     os.remove("test.pgm")
 # Start tests module with IO tests
+# Start tests module with IO tests
