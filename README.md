@@ -346,3 +346,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [contributions-shield]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
 [contributions-url]: #contributing<!-- Initial commit: Set up project with README, setup.py, requirements.txt and .gitignore -->
 <!-- Update README with usage examples and documentation -->
+<!-- Update README with usage examples and documentation -->
