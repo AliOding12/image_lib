@@ -29,3 +29,4 @@ def gaussian_filter(pixels, size=3, sigma=1.0):
     kernel = gaussian_kernel(size, sigma)
     return convolution(pixels, kernel)
 # Start filters module with Gaussian blur
+# Fix bug in Gaussian filter implementation
